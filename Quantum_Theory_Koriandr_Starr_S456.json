@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Midterm",
+        "type": "Exam",
+        "score": 85.0,
+        "weight": 0.3
+    },
+    {
+        "title": "Final Project",
+        "type": "Project",
+        "score": 95.0,
+        "weight": 0.7
+    }
+]
