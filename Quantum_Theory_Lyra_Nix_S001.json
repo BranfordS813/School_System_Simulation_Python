@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Reading Assignment 1",
+        "type": "Reading",
+        "score": 75.0,
+        "weight": 0.02
+    },
+    {
+        "title": "Reading Assignment 2",
+        "type": "Reading",
+        "score": 96.5,
+        "weight": 0.02
+    },
+    {
+        "title": "Quiz 1 (10%)",
+        "type": "Quiz",
+        "score": 92.7,
+        "weight": 0.1
+    },
+    {
+        "title": "Quiz 2 (10%)",
+        "type": "Quiz",
+        "score": 63.6,
+        "weight": 0.1
+    },
+    {
+        "title": "Quiz 3 (5%)",
+        "type": "Quiz",
+        "score": 85.3,
+        "weight": 0.05
+    },
+    {
+        "title": "Quiz 4 (5%)",
+        "type": "Quiz",
+        "score": 94.5,
+        "weight": 0.05
+    },
+    {
+        "title": "Quiz 5 (5%)",
+        "type": "Quiz",
+        "score": 69.2,
+        "weight": 0.05
+    },
+    {
+        "title": "Quiz 6 (5%)",
+        "type": "Quiz",
+        "score": 84.4,
+        "weight": 0.05
+    },
+    {
+        "title": "Lab Report 1",
+        "type": "Lab",
+        "score": 67.9,
+        "weight": 0.03
+    },
+    {
+        "title": "Lab Report 2",
+        "type": "Lab",
+        "score": 76.0,
+        "weight": 0.03
+    },
+    {
+        "title": "Midterm Exam 1 (High Avg)",
+        "type": "Exam",
+        "score": 88.7,
+        "weight": 0.1
+    },
+    {
+        "title": "Midterm Exam 2 (Low Avg)",
+        "type": "Exam",
+        "score": 63.8,
+        "weight": 0.1
+    },
+    {
+        "title": "Midterm Exam 3 (Medium Avg)",
+        "type": "Exam",
+        "score": 77.1,
+        "weight": 0.1
+    },
+    {
+        "title": "Homework Set 1",
+        "type": "Homework",
+        "score": 83.6,
+        "weight": 0.01
+    },
+    {
+        "title": "Homework Set 2",
+        "type": "Homework",
+        "score": 89.5,
+        "weight": 0.01
+    },
+    {
+        "title": "Homework Set 3",
+        "type": "Homework",
+        "score": 80.4,
+        "weight": 0.01
+    },
+    {
+        "title": "Homework Set 4",
+        "type": "Homework",
+        "score": 89.8,
+        "weight": 0.01
+    },
+    {
+        "title": "Homework Set 5",
+        "type": "Homework",
+        "score": 79.6,
+        "weight": 0.01
+    },
+    {
+        "title": "Group Project",
+        "type": "Project",
+        "score": 93.1,
+        "weight": 0.08
+    },
+    {
+        "title": "Final Presentation",
+        "type": "Presentation",
+        "score": 59.0,
+        "weight": 0.05
+    }
+]

@@ -1,1 +1,6302 @@
-[]
+[
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 75.0,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Nix",
+        "Student ID": "S001"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 96.5,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Nix",
+        "Student ID": "S001"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 92.7,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Nix",
+        "Student ID": "S001"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 63.6,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Nix",
+        "Student ID": "S001"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 85.3,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Nix",
+        "Student ID": "S001"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 94.5,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Nix",
+        "Student ID": "S001"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 69.2,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Nix",
+        "Student ID": "S001"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 84.4,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Nix",
+        "Student ID": "S001"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 67.9,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Nix",
+        "Student ID": "S001"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 76.0,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Nix",
+        "Student ID": "S001"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 88.7,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Nix",
+        "Student ID": "S001"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 63.8,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Nix",
+        "Student ID": "S001"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 77.1,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Nix",
+        "Student ID": "S001"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 83.6,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Nix",
+        "Student ID": "S001"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 89.5,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Nix",
+        "Student ID": "S001"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 80.4,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Nix",
+        "Student ID": "S001"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 89.8,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Nix",
+        "Student ID": "S001"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 79.6,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Nix",
+        "Student ID": "S001"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 93.1,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Nix",
+        "Student ID": "S001"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 59.0,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Nix",
+        "Student ID": "S001"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 81.1,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Jaxx",
+        "Student ID": "S002"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 82.6,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Jaxx",
+        "Student ID": "S002"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 77.8,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Jaxx",
+        "Student ID": "S002"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 74.9,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Jaxx",
+        "Student ID": "S002"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 81.0,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Jaxx",
+        "Student ID": "S002"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 82.4,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Jaxx",
+        "Student ID": "S002"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 78.7,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Jaxx",
+        "Student ID": "S002"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 61.6,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Jaxx",
+        "Student ID": "S002"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 84.8,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Jaxx",
+        "Student ID": "S002"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 71.8,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Jaxx",
+        "Student ID": "S002"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 62.9,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Jaxx",
+        "Student ID": "S002"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 76.8,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Jaxx",
+        "Student ID": "S002"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 77.3,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Jaxx",
+        "Student ID": "S002"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 84.3,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Jaxx",
+        "Student ID": "S002"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 89.5,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Jaxx",
+        "Student ID": "S002"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 91.5,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Jaxx",
+        "Student ID": "S002"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 80.4,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Jaxx",
+        "Student ID": "S002"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 88.9,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Jaxx",
+        "Student ID": "S002"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 66.0,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Jaxx",
+        "Student ID": "S002"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 59.3,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Jaxx",
+        "Student ID": "S002"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 98.2,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Forn",
+        "Student ID": "S003"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 85.4,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Forn",
+        "Student ID": "S003"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 64.1,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Forn",
+        "Student ID": "S003"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 77.2,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Forn",
+        "Student ID": "S003"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 68.3,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Forn",
+        "Student ID": "S003"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 83.8,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Forn",
+        "Student ID": "S003"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 94.4,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Forn",
+        "Student ID": "S003"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 83.9,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Forn",
+        "Student ID": "S003"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 78.1,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Forn",
+        "Student ID": "S003"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 68.3,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Forn",
+        "Student ID": "S003"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 64.8,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Forn",
+        "Student ID": "S003"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 66.4,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Forn",
+        "Student ID": "S003"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 45.0,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Forn",
+        "Student ID": "S003"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 91.8,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Forn",
+        "Student ID": "S003"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 93.3,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Forn",
+        "Student ID": "S003"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 95.8,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Forn",
+        "Student ID": "S003"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 91.3,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Forn",
+        "Student ID": "S003"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 81.6,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Forn",
+        "Student ID": "S003"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 76.2,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Forn",
+        "Student ID": "S003"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 90.5,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Forn",
+        "Student ID": "S003"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 92.8,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Nix",
+        "Student ID": "S004"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 80.7,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Nix",
+        "Student ID": "S004"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 90.8,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Nix",
+        "Student ID": "S004"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 69.0,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Nix",
+        "Student ID": "S004"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 71.4,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Nix",
+        "Student ID": "S004"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 74.8,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Nix",
+        "Student ID": "S004"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 71.0,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Nix",
+        "Student ID": "S004"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 93.0,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Nix",
+        "Student ID": "S004"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 74.2,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Nix",
+        "Student ID": "S004"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 82.0,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Nix",
+        "Student ID": "S004"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 85.0,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Nix",
+        "Student ID": "S004"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 71.6,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Nix",
+        "Student ID": "S004"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 75.5,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Nix",
+        "Student ID": "S004"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 75.7,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Nix",
+        "Student ID": "S004"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 82.4,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Nix",
+        "Student ID": "S004"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 91.8,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Nix",
+        "Student ID": "S004"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 79.1,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Nix",
+        "Student ID": "S004"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 80.5,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Nix",
+        "Student ID": "S004"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 94.4,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Nix",
+        "Student ID": "S004"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 70.7,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Nix",
+        "Student ID": "S004"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 95.9,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Thorne",
+        "Student ID": "S005"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 81.6,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Thorne",
+        "Student ID": "S005"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 92.2,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Thorne",
+        "Student ID": "S005"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 87.6,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Thorne",
+        "Student ID": "S005"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 73.6,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Thorne",
+        "Student ID": "S005"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 79.9,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Thorne",
+        "Student ID": "S005"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 92.6,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Thorne",
+        "Student ID": "S005"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 89.7,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Thorne",
+        "Student ID": "S005"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 62.2,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Thorne",
+        "Student ID": "S005"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 75.6,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Thorne",
+        "Student ID": "S005"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 68.7,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Thorne",
+        "Student ID": "S005"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 53.0,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Thorne",
+        "Student ID": "S005"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 84.0,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Thorne",
+        "Student ID": "S005"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 86.2,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Thorne",
+        "Student ID": "S005"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 82.6,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Thorne",
+        "Student ID": "S005"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 82.8,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Thorne",
+        "Student ID": "S005"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 82.2,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Thorne",
+        "Student ID": "S005"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 89.8,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Thorne",
+        "Student ID": "S005"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 95.0,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Thorne",
+        "Student ID": "S005"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 79.9,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Thorne",
+        "Student ID": "S005"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 96.0,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Kael",
+        "Student ID": "S006"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 94.0,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Kael",
+        "Student ID": "S006"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 62.2,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Kael",
+        "Student ID": "S006"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 88.9,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Kael",
+        "Student ID": "S006"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 83.7,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Kael",
+        "Student ID": "S006"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 63.9,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Kael",
+        "Student ID": "S006"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 71.1,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Kael",
+        "Student ID": "S006"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 65.5,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Kael",
+        "Student ID": "S006"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 61.3,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Kael",
+        "Student ID": "S006"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 74.8,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Kael",
+        "Student ID": "S006"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 75.0,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Kael",
+        "Student ID": "S006"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 51.4,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Kael",
+        "Student ID": "S006"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 61.3,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Kael",
+        "Student ID": "S006"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 79.3,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Kael",
+        "Student ID": "S006"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 95.2,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Kael",
+        "Student ID": "S006"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 77.6,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Kael",
+        "Student ID": "S006"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 90.0,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Kael",
+        "Student ID": "S006"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 85.5,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Kael",
+        "Student ID": "S006"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 59.3,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Kael",
+        "Student ID": "S006"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 58.6,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Kael",
+        "Student ID": "S006"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 99.7,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Jaxx",
+        "Student ID": "S007"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 79.7,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Jaxx",
+        "Student ID": "S007"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 80.0,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Jaxx",
+        "Student ID": "S007"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 75.6,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Jaxx",
+        "Student ID": "S007"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 77.6,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Jaxx",
+        "Student ID": "S007"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 77.1,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Jaxx",
+        "Student ID": "S007"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 71.7,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Jaxx",
+        "Student ID": "S007"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 85.6,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Jaxx",
+        "Student ID": "S007"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 62.5,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Jaxx",
+        "Student ID": "S007"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 87.6,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Jaxx",
+        "Student ID": "S007"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 78.0,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Jaxx",
+        "Student ID": "S007"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 74.0,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Jaxx",
+        "Student ID": "S007"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 45.6,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Jaxx",
+        "Student ID": "S007"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 99.8,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Jaxx",
+        "Student ID": "S007"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 86.6,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Jaxx",
+        "Student ID": "S007"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 92.2,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Jaxx",
+        "Student ID": "S007"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 75.5,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Jaxx",
+        "Student ID": "S007"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 95.7,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Jaxx",
+        "Student ID": "S007"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 89.1,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Jaxx",
+        "Student ID": "S007"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 57.6,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Lyra Jaxx",
+        "Student ID": "S007"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 92.6,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Forn",
+        "Student ID": "S008"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 99.0,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Forn",
+        "Student ID": "S008"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 86.7,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Forn",
+        "Student ID": "S008"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 76.8,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Forn",
+        "Student ID": "S008"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 87.2,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Forn",
+        "Student ID": "S008"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 66.2,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Forn",
+        "Student ID": "S008"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 74.3,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Forn",
+        "Student ID": "S008"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 73.1,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Forn",
+        "Student ID": "S008"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 76.2,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Forn",
+        "Student ID": "S008"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 66.1,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Forn",
+        "Student ID": "S008"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 95.0,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Forn",
+        "Student ID": "S008"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 70.3,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Forn",
+        "Student ID": "S008"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 76.8,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Forn",
+        "Student ID": "S008"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 78.9,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Forn",
+        "Student ID": "S008"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 92.6,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Forn",
+        "Student ID": "S008"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 75.4,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Forn",
+        "Student ID": "S008"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 80.6,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Forn",
+        "Student ID": "S008"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 77.0,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Forn",
+        "Student ID": "S008"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 78.3,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Forn",
+        "Student ID": "S008"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 80.5,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Forn",
+        "Student ID": "S008"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 92.3,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Forn",
+        "Student ID": "S009"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 86.0,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Forn",
+        "Student ID": "S009"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 67.0,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Forn",
+        "Student ID": "S009"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 92.0,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Forn",
+        "Student ID": "S009"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 61.1,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Forn",
+        "Student ID": "S009"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 81.3,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Forn",
+        "Student ID": "S009"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 69.3,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Forn",
+        "Student ID": "S009"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 72.1,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Forn",
+        "Student ID": "S009"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 92.6,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Forn",
+        "Student ID": "S009"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 80.5,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Forn",
+        "Student ID": "S009"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 86.3,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Forn",
+        "Student ID": "S009"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 57.1,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Forn",
+        "Student ID": "S009"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 51.7,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Forn",
+        "Student ID": "S009"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 88.2,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Forn",
+        "Student ID": "S009"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 92.8,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Forn",
+        "Student ID": "S009"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 88.0,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Forn",
+        "Student ID": "S009"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 93.8,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Forn",
+        "Student ID": "S009"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 88.6,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Forn",
+        "Student ID": "S009"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 74.8,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Forn",
+        "Student ID": "S009"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 68.9,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Forn",
+        "Student ID": "S009"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 82.7,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Rex",
+        "Student ID": "S010"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 82.1,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Rex",
+        "Student ID": "S010"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 87.5,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Rex",
+        "Student ID": "S010"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 93.9,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Rex",
+        "Student ID": "S010"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 77.8,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Rex",
+        "Student ID": "S010"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 64.3,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Rex",
+        "Student ID": "S010"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 61.0,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Rex",
+        "Student ID": "S010"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 79.6,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Rex",
+        "Student ID": "S010"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 81.4,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Rex",
+        "Student ID": "S010"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 88.1,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Rex",
+        "Student ID": "S010"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 75.3,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Rex",
+        "Student ID": "S010"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 63.1,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Rex",
+        "Student ID": "S010"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 67.1,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Rex",
+        "Student ID": "S010"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 91.8,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Rex",
+        "Student ID": "S010"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 90.3,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Rex",
+        "Student ID": "S010"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 89.0,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Rex",
+        "Student ID": "S010"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 82.0,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Rex",
+        "Student ID": "S010"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 94.1,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Rex",
+        "Student ID": "S010"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 82.4,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Rex",
+        "Student ID": "S010"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 81.1,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Rex",
+        "Student ID": "S010"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 81.1,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Forn",
+        "Student ID": "S011"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 86.1,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Forn",
+        "Student ID": "S011"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 77.9,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Forn",
+        "Student ID": "S011"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 70.4,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Forn",
+        "Student ID": "S011"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 73.8,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Forn",
+        "Student ID": "S011"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 70.0,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Forn",
+        "Student ID": "S011"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 90.1,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Forn",
+        "Student ID": "S011"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 66.6,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Forn",
+        "Student ID": "S011"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 71.4,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Forn",
+        "Student ID": "S011"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 68.5,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Forn",
+        "Student ID": "S011"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 80.9,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Forn",
+        "Student ID": "S011"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 64.5,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Forn",
+        "Student ID": "S011"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 45.0,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Forn",
+        "Student ID": "S011"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 78.7,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Forn",
+        "Student ID": "S011"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 80.2,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Forn",
+        "Student ID": "S011"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 75.9,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Forn",
+        "Student ID": "S011"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 85.3,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Forn",
+        "Student ID": "S011"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 85.3,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Forn",
+        "Student ID": "S011"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 84.5,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Forn",
+        "Student ID": "S011"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 68.4,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Forn",
+        "Student ID": "S011"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 93.6,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S012"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 85.8,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S012"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 87.1,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S012"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 83.6,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S012"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 72.1,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S012"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 83.3,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S012"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 92.8,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S012"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 67.1,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S012"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 93.2,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S012"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 63.6,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S012"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 61.1,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S012"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 58.4,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S012"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 51.7,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S012"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 86.2,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S012"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 78.0,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S012"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 87.8,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S012"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 99.6,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S012"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 91.3,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S012"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 59.6,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S012"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 84.0,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S012"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 98.1,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Jaxx",
+        "Student ID": "S013"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 77.5,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Jaxx",
+        "Student ID": "S013"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 71.9,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Jaxx",
+        "Student ID": "S013"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 89.4,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Jaxx",
+        "Student ID": "S013"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 93.3,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Jaxx",
+        "Student ID": "S013"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 74.1,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Jaxx",
+        "Student ID": "S013"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 81.6,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Jaxx",
+        "Student ID": "S013"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 80.4,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Jaxx",
+        "Student ID": "S013"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 92.4,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Jaxx",
+        "Student ID": "S013"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 68.7,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Jaxx",
+        "Student ID": "S013"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 84.6,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Jaxx",
+        "Student ID": "S013"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 58.3,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Jaxx",
+        "Student ID": "S013"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 78.7,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Jaxx",
+        "Student ID": "S013"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 90.6,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Jaxx",
+        "Student ID": "S013"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 76.2,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Jaxx",
+        "Student ID": "S013"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 88.4,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Jaxx",
+        "Student ID": "S013"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 84.8,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Jaxx",
+        "Student ID": "S013"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 87.7,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Jaxx",
+        "Student ID": "S013"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 80.2,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Jaxx",
+        "Student ID": "S013"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 59.8,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Kai Jaxx",
+        "Student ID": "S013"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 99.7,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S014"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 85.7,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S014"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 90.9,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S014"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 69.9,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S014"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 76.8,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S014"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 89.8,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S014"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 92.5,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S014"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 63.0,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S014"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 92.5,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S014"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 65.2,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S014"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 95.0,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S014"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 65.9,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S014"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 92.0,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S014"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 98.2,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S014"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 80.3,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S014"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 84.6,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S014"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 78.3,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S014"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 77.3,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S014"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 63.5,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S014"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 87.7,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Thorne",
+        "Student ID": "S014"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 75.4,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Xylo",
+        "Student ID": "S015"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 75.1,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Xylo",
+        "Student ID": "S015"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 86.6,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Xylo",
+        "Student ID": "S015"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 93.9,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Xylo",
+        "Student ID": "S015"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 85.9,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Xylo",
+        "Student ID": "S015"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 72.5,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Xylo",
+        "Student ID": "S015"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 93.5,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Xylo",
+        "Student ID": "S015"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 71.8,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Xylo",
+        "Student ID": "S015"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 72.2,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Xylo",
+        "Student ID": "S015"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 87.1,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Xylo",
+        "Student ID": "S015"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 95.0,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Xylo",
+        "Student ID": "S015"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 44.3,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Xylo",
+        "Student ID": "S015"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 82.4,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Xylo",
+        "Student ID": "S015"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 75.8,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Xylo",
+        "Student ID": "S015"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 88.0,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Xylo",
+        "Student ID": "S015"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 92.7,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Xylo",
+        "Student ID": "S015"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 84.9,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Xylo",
+        "Student ID": "S015"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 81.2,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Xylo",
+        "Student ID": "S015"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 91.8,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Xylo",
+        "Student ID": "S015"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 65.1,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Xylo",
+        "Student ID": "S015"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 96.3,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Nix",
+        "Student ID": "S016"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 78.3,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Nix",
+        "Student ID": "S016"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 64.6,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Nix",
+        "Student ID": "S016"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 81.8,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Nix",
+        "Student ID": "S016"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 77.0,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Nix",
+        "Student ID": "S016"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 77.8,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Nix",
+        "Student ID": "S016"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 78.9,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Nix",
+        "Student ID": "S016"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 65.9,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Nix",
+        "Student ID": "S016"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 93.6,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Nix",
+        "Student ID": "S016"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 72.6,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Nix",
+        "Student ID": "S016"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 76.4,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Nix",
+        "Student ID": "S016"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 49.0,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Nix",
+        "Student ID": "S016"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 87.9,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Nix",
+        "Student ID": "S016"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 85.6,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Nix",
+        "Student ID": "S016"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 83.0,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Nix",
+        "Student ID": "S016"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 81.4,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Nix",
+        "Student ID": "S016"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 86.3,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Nix",
+        "Student ID": "S016"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 82.8,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Nix",
+        "Student ID": "S016"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 90.4,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Nix",
+        "Student ID": "S016"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 69.5,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Nix",
+        "Student ID": "S016"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 91.2,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Thorne",
+        "Student ID": "S017"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 78.7,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Thorne",
+        "Student ID": "S017"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 82.7,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Thorne",
+        "Student ID": "S017"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 83.1,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Thorne",
+        "Student ID": "S017"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 71.4,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Thorne",
+        "Student ID": "S017"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 68.4,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Thorne",
+        "Student ID": "S017"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 71.5,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Thorne",
+        "Student ID": "S017"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 78.0,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Thorne",
+        "Student ID": "S017"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 86.5,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Thorne",
+        "Student ID": "S017"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 82.6,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Thorne",
+        "Student ID": "S017"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 86.2,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Thorne",
+        "Student ID": "S017"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 81.3,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Thorne",
+        "Student ID": "S017"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 72.8,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Thorne",
+        "Student ID": "S017"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 91.0,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Thorne",
+        "Student ID": "S017"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 88.0,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Thorne",
+        "Student ID": "S017"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 79.1,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Thorne",
+        "Student ID": "S017"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 98.6,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Thorne",
+        "Student ID": "S017"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 80.3,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Thorne",
+        "Student ID": "S017"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 60.4,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Thorne",
+        "Student ID": "S017"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 77.2,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Zola Thorne",
+        "Student ID": "S017"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 77.1,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Zylos Forn",
+        "Student ID": "S018"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 78.7,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Zylos Forn",
+        "Student ID": "S018"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 60.8,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zylos Forn",
+        "Student ID": "S018"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 63.0,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zylos Forn",
+        "Student ID": "S018"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 86.1,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zylos Forn",
+        "Student ID": "S018"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 60.5,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zylos Forn",
+        "Student ID": "S018"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 87.1,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zylos Forn",
+        "Student ID": "S018"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 74.0,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zylos Forn",
+        "Student ID": "S018"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 82.1,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Zylos Forn",
+        "Student ID": "S018"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 79.4,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Zylos Forn",
+        "Student ID": "S018"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 82.7,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Zylos Forn",
+        "Student ID": "S018"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 76.7,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Zylos Forn",
+        "Student ID": "S018"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 86.6,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Zylos Forn",
+        "Student ID": "S018"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 82.8,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zylos Forn",
+        "Student ID": "S018"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 92.6,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zylos Forn",
+        "Student ID": "S018"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 88.2,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zylos Forn",
+        "Student ID": "S018"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 79.2,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zylos Forn",
+        "Student ID": "S018"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 96.3,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zylos Forn",
+        "Student ID": "S018"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 90.5,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Zylos Forn",
+        "Student ID": "S018"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 69.3,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Zylos Forn",
+        "Student ID": "S018"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 87.4,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Xylo",
+        "Student ID": "S019"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 80.9,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Xylo",
+        "Student ID": "S019"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 70.5,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Xylo",
+        "Student ID": "S019"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 79.0,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Xylo",
+        "Student ID": "S019"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 70.2,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Xylo",
+        "Student ID": "S019"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 93.7,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Xylo",
+        "Student ID": "S019"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 89.6,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Xylo",
+        "Student ID": "S019"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 81.7,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Xylo",
+        "Student ID": "S019"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 73.6,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Xylo",
+        "Student ID": "S019"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 92.6,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Xylo",
+        "Student ID": "S019"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 72.3,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Xylo",
+        "Student ID": "S019"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 48.9,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Xylo",
+        "Student ID": "S019"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 79.6,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Xylo",
+        "Student ID": "S019"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 94.5,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Xylo",
+        "Student ID": "S019"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 78.2,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Xylo",
+        "Student ID": "S019"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 88.8,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Xylo",
+        "Student ID": "S019"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 79.1,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Xylo",
+        "Student ID": "S019"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 78.2,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Xylo",
+        "Student ID": "S019"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 76.6,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Xylo",
+        "Student ID": "S019"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 77.9,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Xylo",
+        "Student ID": "S019"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 89.8,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Vance",
+        "Student ID": "S020"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 95.1,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Vance",
+        "Student ID": "S020"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 92.0,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Vance",
+        "Student ID": "S020"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 67.5,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Vance",
+        "Student ID": "S020"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 79.8,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Vance",
+        "Student ID": "S020"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 63.2,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Vance",
+        "Student ID": "S020"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 89.4,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Vance",
+        "Student ID": "S020"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 81.0,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Vance",
+        "Student ID": "S020"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 60.1,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Vance",
+        "Student ID": "S020"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 80.5,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Vance",
+        "Student ID": "S020"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 73.8,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Vance",
+        "Student ID": "S020"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 62.0,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Vance",
+        "Student ID": "S020"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 74.5,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Vance",
+        "Student ID": "S020"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 99.0,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Vance",
+        "Student ID": "S020"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 96.3,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Vance",
+        "Student ID": "S020"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 81.0,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Vance",
+        "Student ID": "S020"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 88.1,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Vance",
+        "Student ID": "S020"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 93.2,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Vance",
+        "Student ID": "S020"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 64.4,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Vance",
+        "Student ID": "S020"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 81.6,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Aeri Vance",
+        "Student ID": "S020"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 87.2,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Kael",
+        "Student ID": "S021"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 91.4,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Kael",
+        "Student ID": "S021"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 60.4,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Kael",
+        "Student ID": "S021"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 75.1,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Kael",
+        "Student ID": "S021"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 92.4,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Kael",
+        "Student ID": "S021"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 94.5,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Kael",
+        "Student ID": "S021"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 73.3,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Kael",
+        "Student ID": "S021"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 86.9,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Kael",
+        "Student ID": "S021"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 88.3,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Kael",
+        "Student ID": "S021"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 63.1,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Kael",
+        "Student ID": "S021"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 89.2,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Kael",
+        "Student ID": "S021"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 90.0,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Kael",
+        "Student ID": "S021"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 75.6,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Kael",
+        "Student ID": "S021"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 88.9,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Kael",
+        "Student ID": "S021"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 84.6,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Kael",
+        "Student ID": "S021"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 92.1,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Kael",
+        "Student ID": "S021"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 76.0,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Kael",
+        "Student ID": "S021"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 77.5,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Kael",
+        "Student ID": "S021"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 90.4,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Kael",
+        "Student ID": "S021"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 66.0,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Kyra Kael",
+        "Student ID": "S021"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 85.2,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Forn",
+        "Student ID": "S022"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 86.9,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Forn",
+        "Student ID": "S022"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 77.9,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Forn",
+        "Student ID": "S022"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 73.1,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Forn",
+        "Student ID": "S022"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 72.4,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Forn",
+        "Student ID": "S022"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 76.6,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Forn",
+        "Student ID": "S022"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 88.0,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Forn",
+        "Student ID": "S022"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 71.7,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Forn",
+        "Student ID": "S022"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 94.9,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Forn",
+        "Student ID": "S022"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 76.9,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Forn",
+        "Student ID": "S022"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 73.2,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Forn",
+        "Student ID": "S022"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 43.8,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Forn",
+        "Student ID": "S022"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 78.1,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Forn",
+        "Student ID": "S022"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 81.3,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Forn",
+        "Student ID": "S022"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 94.2,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Forn",
+        "Student ID": "S022"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 76.0,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Forn",
+        "Student ID": "S022"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 75.9,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Forn",
+        "Student ID": "S022"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 81.1,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Forn",
+        "Student ID": "S022"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 57.8,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Forn",
+        "Student ID": "S022"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 89.9,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Forn",
+        "Student ID": "S022"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 89.7,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Jax Nix",
+        "Student ID": "S023"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 76.5,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Jax Nix",
+        "Student ID": "S023"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 85.8,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Jax Nix",
+        "Student ID": "S023"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 78.2,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Jax Nix",
+        "Student ID": "S023"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 86.9,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Jax Nix",
+        "Student ID": "S023"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 85.8,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Jax Nix",
+        "Student ID": "S023"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 88.4,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Jax Nix",
+        "Student ID": "S023"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 72.1,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Jax Nix",
+        "Student ID": "S023"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 67.2,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Jax Nix",
+        "Student ID": "S023"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 69.0,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Jax Nix",
+        "Student ID": "S023"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 80.7,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Jax Nix",
+        "Student ID": "S023"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 59.4,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Jax Nix",
+        "Student ID": "S023"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 54.1,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Jax Nix",
+        "Student ID": "S023"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 87.9,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Jax Nix",
+        "Student ID": "S023"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 97.7,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Jax Nix",
+        "Student ID": "S023"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 92.9,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Jax Nix",
+        "Student ID": "S023"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 92.1,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Jax Nix",
+        "Student ID": "S023"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 88.2,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Jax Nix",
+        "Student ID": "S023"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 82.0,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Jax Nix",
+        "Student ID": "S023"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 92.1,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Jax Nix",
+        "Student ID": "S023"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 79.3,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Forn",
+        "Student ID": "S024"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 97.3,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Forn",
+        "Student ID": "S024"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 65.1,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Forn",
+        "Student ID": "S024"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 89.3,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Forn",
+        "Student ID": "S024"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 85.3,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Forn",
+        "Student ID": "S024"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 70.8,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Forn",
+        "Student ID": "S024"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 77.8,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Forn",
+        "Student ID": "S024"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 89.0,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Forn",
+        "Student ID": "S024"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 75.5,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Forn",
+        "Student ID": "S024"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 71.7,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Forn",
+        "Student ID": "S024"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 83.2,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Forn",
+        "Student ID": "S024"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 62.1,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Forn",
+        "Student ID": "S024"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 67.3,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Forn",
+        "Student ID": "S024"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 92.9,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Forn",
+        "Student ID": "S024"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 85.1,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Forn",
+        "Student ID": "S024"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 99.7,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Forn",
+        "Student ID": "S024"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 99.5,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Forn",
+        "Student ID": "S024"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 81.7,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Forn",
+        "Student ID": "S024"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 87.6,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Forn",
+        "Student ID": "S024"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 60.5,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Forn",
+        "Student ID": "S024"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 93.2,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Nix",
+        "Student ID": "S025"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 97.1,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Nix",
+        "Student ID": "S025"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 73.4,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Nix",
+        "Student ID": "S025"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 78.8,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Nix",
+        "Student ID": "S025"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 70.9,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Nix",
+        "Student ID": "S025"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 75.3,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Nix",
+        "Student ID": "S025"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 73.5,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Nix",
+        "Student ID": "S025"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 63.9,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Nix",
+        "Student ID": "S025"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 82.3,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Nix",
+        "Student ID": "S025"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 87.6,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Nix",
+        "Student ID": "S025"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 88.7,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Nix",
+        "Student ID": "S025"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 55.3,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Nix",
+        "Student ID": "S025"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 74.0,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Nix",
+        "Student ID": "S025"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 89.7,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Nix",
+        "Student ID": "S025"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 89.4,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Nix",
+        "Student ID": "S025"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 84.8,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Nix",
+        "Student ID": "S025"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 76.1,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Nix",
+        "Student ID": "S025"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 80.3,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Nix",
+        "Student ID": "S025"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 56.6,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Nix",
+        "Student ID": "S025"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 56.2,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Zephyr Nix",
+        "Student ID": "S025"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 90.1,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Xylo",
+        "Student ID": "S026"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 93.0,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Xylo",
+        "Student ID": "S026"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 76.9,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Xylo",
+        "Student ID": "S026"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 88.1,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Xylo",
+        "Student ID": "S026"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 78.6,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Xylo",
+        "Student ID": "S026"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 88.8,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Xylo",
+        "Student ID": "S026"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 60.2,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Xylo",
+        "Student ID": "S026"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 85.4,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Xylo",
+        "Student ID": "S026"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 91.9,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Xylo",
+        "Student ID": "S026"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 73.1,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Xylo",
+        "Student ID": "S026"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 85.6,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Xylo",
+        "Student ID": "S026"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 62.2,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Xylo",
+        "Student ID": "S026"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 80.4,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Xylo",
+        "Student ID": "S026"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 97.7,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Xylo",
+        "Student ID": "S026"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 77.1,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Xylo",
+        "Student ID": "S026"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 91.6,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Xylo",
+        "Student ID": "S026"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 95.5,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Xylo",
+        "Student ID": "S026"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 78.9,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Xylo",
+        "Student ID": "S026"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 90.1,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Xylo",
+        "Student ID": "S026"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 75.9,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Xylo",
+        "Student ID": "S026"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 90.2,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Vance",
+        "Student ID": "S027"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 97.0,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Vance",
+        "Student ID": "S027"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 93.0,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Vance",
+        "Student ID": "S027"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 72.8,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Vance",
+        "Student ID": "S027"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 92.7,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Vance",
+        "Student ID": "S027"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 92.1,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Vance",
+        "Student ID": "S027"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 67.9,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Vance",
+        "Student ID": "S027"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 74.8,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Vance",
+        "Student ID": "S027"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 73.0,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Vance",
+        "Student ID": "S027"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 85.2,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Vance",
+        "Student ID": "S027"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 92.5,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Vance",
+        "Student ID": "S027"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 78.7,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Vance",
+        "Student ID": "S027"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 86.0,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Vance",
+        "Student ID": "S027"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 99.8,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Vance",
+        "Student ID": "S027"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 89.3,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Vance",
+        "Student ID": "S027"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 77.2,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Vance",
+        "Student ID": "S027"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 94.0,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Vance",
+        "Student ID": "S027"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 84.3,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Vance",
+        "Student ID": "S027"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 87.1,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Vance",
+        "Student ID": "S027"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 66.7,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Vance",
+        "Student ID": "S027"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 86.1,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Rex",
+        "Student ID": "S028"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 94.6,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Rex",
+        "Student ID": "S028"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 86.8,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Rex",
+        "Student ID": "S028"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 67.2,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Rex",
+        "Student ID": "S028"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 83.5,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Rex",
+        "Student ID": "S028"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 65.7,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Rex",
+        "Student ID": "S028"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 92.1,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Rex",
+        "Student ID": "S028"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 64.4,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Rex",
+        "Student ID": "S028"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 92.7,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Rex",
+        "Student ID": "S028"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 92.0,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Rex",
+        "Student ID": "S028"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 68.1,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Rex",
+        "Student ID": "S028"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 45.0,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Rex",
+        "Student ID": "S028"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 49.1,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Rex",
+        "Student ID": "S028"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 96.3,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Rex",
+        "Student ID": "S028"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 84.7,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Rex",
+        "Student ID": "S028"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 90.7,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Rex",
+        "Student ID": "S028"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 99.0,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Rex",
+        "Student ID": "S028"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 90.1,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Rex",
+        "Student ID": "S028"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 74.8,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Rex",
+        "Student ID": "S028"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 91.7,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Rex",
+        "Student ID": "S028"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 94.0,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Nix",
+        "Student ID": "S029"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 85.7,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Nix",
+        "Student ID": "S029"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 61.2,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Nix",
+        "Student ID": "S029"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 83.6,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Nix",
+        "Student ID": "S029"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 63.3,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Nix",
+        "Student ID": "S029"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 86.9,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Nix",
+        "Student ID": "S029"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 71.8,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Nix",
+        "Student ID": "S029"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 91.1,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Nix",
+        "Student ID": "S029"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 65.5,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Nix",
+        "Student ID": "S029"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 60.3,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Nix",
+        "Student ID": "S029"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 73.5,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Nix",
+        "Student ID": "S029"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 55.6,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Nix",
+        "Student ID": "S029"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 88.3,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Nix",
+        "Student ID": "S029"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 75.4,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Nix",
+        "Student ID": "S029"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 83.0,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Nix",
+        "Student ID": "S029"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 83.7,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Nix",
+        "Student ID": "S029"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 86.1,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Nix",
+        "Student ID": "S029"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 87.4,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Nix",
+        "Student ID": "S029"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 90.6,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Nix",
+        "Student ID": "S029"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 71.1,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Rin Nix",
+        "Student ID": "S029"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 81.8,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Rex",
+        "Student ID": "S030"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 93.9,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Rex",
+        "Student ID": "S030"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 93.4,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Rex",
+        "Student ID": "S030"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 69.9,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Rex",
+        "Student ID": "S030"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 92.9,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Rex",
+        "Student ID": "S030"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 81.8,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Rex",
+        "Student ID": "S030"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 76.4,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Rex",
+        "Student ID": "S030"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 85.3,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Rex",
+        "Student ID": "S030"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 86.8,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Rex",
+        "Student ID": "S030"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 81.5,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Rex",
+        "Student ID": "S030"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 76.7,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Rex",
+        "Student ID": "S030"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 67.9,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Rex",
+        "Student ID": "S030"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 84.1,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Rex",
+        "Student ID": "S030"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 76.4,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Rex",
+        "Student ID": "S030"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 94.1,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Rex",
+        "Student ID": "S030"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 97.0,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Rex",
+        "Student ID": "S030"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 95.9,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Rex",
+        "Student ID": "S030"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 93.0,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Rex",
+        "Student ID": "S030"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 55.6,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Rex",
+        "Student ID": "S030"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 73.8,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Brell Rex",
+        "Student ID": "S030"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 78.6,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Vance",
+        "Student ID": "S031"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 77.0,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Vance",
+        "Student ID": "S031"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 86.6,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Vance",
+        "Student ID": "S031"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 72.1,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Vance",
+        "Student ID": "S031"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 64.6,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Vance",
+        "Student ID": "S031"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 71.1,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Vance",
+        "Student ID": "S031"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 93.3,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Vance",
+        "Student ID": "S031"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 76.7,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Vance",
+        "Student ID": "S031"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 77.3,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Vance",
+        "Student ID": "S031"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 94.4,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Vance",
+        "Student ID": "S031"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 67.5,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Vance",
+        "Student ID": "S031"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 63.1,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Vance",
+        "Student ID": "S031"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 47.3,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Vance",
+        "Student ID": "S031"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 78.1,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Vance",
+        "Student ID": "S031"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 89.4,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Vance",
+        "Student ID": "S031"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 79.8,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Vance",
+        "Student ID": "S031"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 88.9,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Vance",
+        "Student ID": "S031"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 92.6,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Vance",
+        "Student ID": "S031"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 81.8,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Vance",
+        "Student ID": "S031"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 68.1,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Vance",
+        "Student ID": "S031"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 79.3,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Vance",
+        "Student ID": "S032"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 78.6,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Vance",
+        "Student ID": "S032"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 82.6,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Vance",
+        "Student ID": "S032"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 75.8,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Vance",
+        "Student ID": "S032"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 70.5,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Vance",
+        "Student ID": "S032"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 94.3,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Vance",
+        "Student ID": "S032"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 73.3,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Vance",
+        "Student ID": "S032"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 92.3,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Vance",
+        "Student ID": "S032"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 60.9,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Vance",
+        "Student ID": "S032"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 88.1,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Vance",
+        "Student ID": "S032"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 70.3,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Vance",
+        "Student ID": "S032"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 67.5,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Vance",
+        "Student ID": "S032"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 79.5,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Vance",
+        "Student ID": "S032"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 93.3,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Vance",
+        "Student ID": "S032"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 84.2,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Vance",
+        "Student ID": "S032"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 95.4,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Vance",
+        "Student ID": "S032"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 88.6,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Vance",
+        "Student ID": "S032"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 90.0,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Vance",
+        "Student ID": "S032"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 94.8,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Vance",
+        "Student ID": "S032"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 77.6,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Kylarr Vance",
+        "Student ID": "S032"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 87.0,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Jaxx",
+        "Student ID": "S033"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 98.7,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Jaxx",
+        "Student ID": "S033"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 70.2,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Jaxx",
+        "Student ID": "S033"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 69.1,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Jaxx",
+        "Student ID": "S033"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 84.3,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Jaxx",
+        "Student ID": "S033"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 89.4,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Jaxx",
+        "Student ID": "S033"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 88.3,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Jaxx",
+        "Student ID": "S033"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 70.6,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Jaxx",
+        "Student ID": "S033"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 84.9,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Jaxx",
+        "Student ID": "S033"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 78.1,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Jaxx",
+        "Student ID": "S033"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 85.0,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Jaxx",
+        "Student ID": "S033"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 67.7,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Jaxx",
+        "Student ID": "S033"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 76.3,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Jaxx",
+        "Student ID": "S033"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 79.5,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Jaxx",
+        "Student ID": "S033"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 76.1,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Jaxx",
+        "Student ID": "S033"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 85.2,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Jaxx",
+        "Student ID": "S033"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 89.8,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Jaxx",
+        "Student ID": "S033"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 94.2,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Jaxx",
+        "Student ID": "S033"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 71.6,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Jaxx",
+        "Student ID": "S033"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 93.1,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Asha Jaxx",
+        "Student ID": "S033"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 90.9,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Rex",
+        "Student ID": "S034"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 82.3,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Rex",
+        "Student ID": "S034"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 76.3,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Rex",
+        "Student ID": "S034"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 66.6,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Rex",
+        "Student ID": "S034"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 78.1,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Rex",
+        "Student ID": "S034"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 91.1,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Rex",
+        "Student ID": "S034"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 85.0,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Rex",
+        "Student ID": "S034"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 71.7,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Rex",
+        "Student ID": "S034"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 90.2,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Rex",
+        "Student ID": "S034"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 87.2,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Rex",
+        "Student ID": "S034"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 77.3,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Rex",
+        "Student ID": "S034"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 64.6,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Rex",
+        "Student ID": "S034"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 60.8,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Rex",
+        "Student ID": "S034"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 87.7,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Rex",
+        "Student ID": "S034"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 92.7,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Rex",
+        "Student ID": "S034"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 89.6,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Rex",
+        "Student ID": "S034"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 80.0,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Rex",
+        "Student ID": "S034"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 76.4,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Rex",
+        "Student ID": "S034"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 80.7,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Rex",
+        "Student ID": "S034"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 90.4,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Sera Rex",
+        "Student ID": "S034"
+    },
+    {
+        "assignment": "Reading Assignment 1",
+        "score": 84.3,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Nix",
+        "Student ID": "S035"
+    },
+    {
+        "assignment": "Reading Assignment 2",
+        "score": 83.8,
+        "weight": 0.02,
+        "type": "Reading",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Nix",
+        "Student ID": "S035"
+    },
+    {
+        "assignment": "Quiz 1 (10%)",
+        "score": 87.9,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Nix",
+        "Student ID": "S035"
+    },
+    {
+        "assignment": "Quiz 2 (10%)",
+        "score": 79.4,
+        "weight": 0.1,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Nix",
+        "Student ID": "S035"
+    },
+    {
+        "assignment": "Quiz 3 (5%)",
+        "score": 91.8,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Nix",
+        "Student ID": "S035"
+    },
+    {
+        "assignment": "Quiz 4 (5%)",
+        "score": 63.5,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Nix",
+        "Student ID": "S035"
+    },
+    {
+        "assignment": "Quiz 5 (5%)",
+        "score": 79.7,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Nix",
+        "Student ID": "S035"
+    },
+    {
+        "assignment": "Quiz 6 (5%)",
+        "score": 69.7,
+        "weight": 0.05,
+        "type": "Quiz",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Nix",
+        "Student ID": "S035"
+    },
+    {
+        "assignment": "Lab Report 1",
+        "score": 69.8,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Nix",
+        "Student ID": "S035"
+    },
+    {
+        "assignment": "Lab Report 2",
+        "score": 78.2,
+        "weight": 0.03,
+        "type": "Lab",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Nix",
+        "Student ID": "S035"
+    },
+    {
+        "assignment": "Midterm Exam 1 (High Avg)",
+        "score": 83.5,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Nix",
+        "Student ID": "S035"
+    },
+    {
+        "assignment": "Midterm Exam 2 (Low Avg)",
+        "score": 47.6,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Nix",
+        "Student ID": "S035"
+    },
+    {
+        "assignment": "Midterm Exam 3 (Medium Avg)",
+        "score": 59.1,
+        "weight": 0.1,
+        "type": "Exam",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Nix",
+        "Student ID": "S035"
+    },
+    {
+        "assignment": "Homework Set 1",
+        "score": 96.2,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Nix",
+        "Student ID": "S035"
+    },
+    {
+        "assignment": "Homework Set 2",
+        "score": 85.6,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Nix",
+        "Student ID": "S035"
+    },
+    {
+        "assignment": "Homework Set 3",
+        "score": 91.6,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Nix",
+        "Student ID": "S035"
+    },
+    {
+        "assignment": "Homework Set 4",
+        "score": 80.4,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Nix",
+        "Student ID": "S035"
+    },
+    {
+        "assignment": "Homework Set 5",
+        "score": 91.3,
+        "weight": 0.01,
+        "type": "Homework",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Nix",
+        "Student ID": "S035"
+    },
+    {
+        "assignment": "Group Project",
+        "score": 57.3,
+        "weight": 0.08,
+        "type": "Project",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Nix",
+        "Student ID": "S035"
+    },
+    {
+        "assignment": "Final Presentation",
+        "score": 88.0,
+        "weight": 0.05,
+        "type": "Presentation",
+        "course": "Quantum Theory",
+        "Student Name": "Roric Nix",
+        "Student ID": "S035"
+    }
+]
