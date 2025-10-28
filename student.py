@@ -60,6 +60,11 @@ class Student(CoreIdentity):
         self.report_card = {}
         # Initializing for detailed assignment grades (The Portal View/Master Book Data)
         self._detailed_grades = {}
+
+        # Add:
+        for course in self.enrolled_courses:
+            if course not in self._detailed_grades:
+                self._detailed_grades[course] = []
         
         # --- Extracurricular Attributes ---
         self.extra = []
@@ -70,6 +75,7 @@ class Student(CoreIdentity):
 
         # Initialize grade level index (for set_grade function)
         self.set_grade(grade_index)
+
     
 
     def set_grade(self, index):
@@ -183,11 +189,18 @@ class Student(CoreIdentity):
 
 
     # --- Grade Management Methods (The Portal View Data Setter) ---
-    def add_assignment_grade(self, course_name, assignment_name, score, weight):
+    def add_assignment_grade(self, course_name, assignment_name, score, weight, assignment_type=None):
         """
         Adds a single assignment grade and its weight to the student's detailed record.
         This data is used for grade calculation and the Master Gradebook.
         """
+        ### Extra Precaution ###
+        # Make add_assignment_grade auto-initialize course to avoid errors
+        if course_name not in self._detailed_grades:
+            self._detailed_grades[course_name] = []
+            if course_name not in self.enrolled_courses:
+                self.enrolled_courses.append(course_name)
+
         if course_name not in self._detailed_grades:
             print(f"[Grade Error] Cannot add assignment. Student is not enrolled in {course_name}. Use register_course() first.")
             return
@@ -202,6 +215,7 @@ class Student(CoreIdentity):
             if assignment['assignment'] == assignment_name:
                 assignment['score'] = score
                 assignment['weight'] = weight
+                assignment['type'] = assignment_type
                 found = True
                 print(f"[Student Grade Update] {assignment_name} updated for {course_name}.")
                 break
@@ -211,6 +225,7 @@ class Student(CoreIdentity):
                 'assignment': assignment_name,
                 'score': score,
                 'weight': weight,
+                'type': assignment_type
             })
             print(f"[Student Grade Record] Added {assignment_name} for {course_name}.")
 

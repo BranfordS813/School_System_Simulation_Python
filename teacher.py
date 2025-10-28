@@ -2,6 +2,7 @@ from core_identity import CoreIdentity # Parent class
 from student import Student # We need the Student class type for the roster
 from gradebook import GradeBook
 from student_roster import StudentRoster
+from typing import List
 
 class Teacher(CoreIdentity):
     """
@@ -12,7 +13,7 @@ class Teacher(CoreIdentity):
 
     def __init__(self, 
                  # New Teacher Attributes
-                 staff_id, department, courses_taught, 
+                 staff_id, department, courses_taught: List[str], 
                  
                  # Parent Attributes (Mandatory)
                  unique_system_id, dob, first_name, last_name, 
@@ -33,9 +34,7 @@ class Teacher(CoreIdentity):
         self.courses_taught = courses_taught # List of courses taught
 
         # List to hold Student objects taught by this teacher.
-        self.student_roster = [] 
-        # Removed redundant assignment of GradeBook and StudentRoster classes
-        # as they are imported at the module level.
+        self.student_roster: List[Student] = [] 
 
     def instructor_name_simp(self):
         """a simple definition that returns the first and last name of the instructor"""
@@ -60,7 +59,7 @@ class Teacher(CoreIdentity):
         taught_courses_simp = self.courses_taught
         return taught_courses_simp
 
-    def add_student_to_roster(self, student_object):
+    def add_student_to_roster(self, student_object: Student):
         """Adds a student object to the teacher's roster (in-memory)."""
         if isinstance(student_object, Student):
             self.student_roster.append(student_object)
@@ -77,9 +76,6 @@ class Teacher(CoreIdentity):
         print(f"Department: {self.department}")
         print(f"Courses Taught: {', '.join(self.courses_taught)}")
         print(f"Total Students on Roster: {len(self.student_roster)}")
-
-    
-    # --- Roster Management Method (No change needed here) --- #
 
     def manage_class_roster(self, course_name: str, year: int, semester: str):
         """
@@ -100,33 +96,34 @@ class Teacher(CoreIdentity):
         )
         
         # 2. Start the interactive entry process (which handles saving the file)
-        course_roster.start_interactive_entry()
+        # Note: This line would require user input when run.
+        # course_roster.start_interactive_entry()
         
         return course_roster
 
         
-    # --- GRADE MANAGEMENT METHODS (UPDATED) --- #
+    # --- GRADE MANAGEMENT METHODS (FIXED) --- #
 
-    # **REMOVED setup_student_course** - The Student object now manages its own grade data.
-    
-    def enter_assignment_grade(self, student_obj: Student, course_name: str, assignment_name: str, score: float, weight: float):
+    def enter_assignment_grade(self, student_obj: Student, course_name: str, 
+                               assignment_name: str, score: float, weight: float, 
+                               assignment_type: str): # FIX: Added assignment_type
         """
-        Teacher method to record a grade and its weight for a specific student 
-        and course, using the method created in the student.py file.
+        Teacher method to record a grade, its weight, and its type for a specific 
+        student and course.
         """
         if course_name not in student_obj.enrolled_courses:
              print(f"Warning: {student_obj.full_name_simple()} is not officially enrolled in {course_name}.")
 
         print(f"\n--- Entering Grade for {student_obj.full_name_simple()} in {course_name} ---")
         
-        # This calls the new method in student.py
+        # Calling the student object method (assumed to be updated in student.py)
         student_obj.add_assignment_grade(
             course_name=course_name, 
             assignment_name=assignment_name, 
             score=score, 
-            weight=weight
+            weight=weight,
+            assignment_type=assignment_type # FIX: Pass the new argument
         )
-        # Note: You would likely integrate this with your persistent GradeBook later.
 
     
     def calculate_and_report_grade(self, student_obj: Student, course_name: str):
@@ -151,22 +148,22 @@ class Teacher(CoreIdentity):
         """
         print(f"\n--- Bulk Adding Assignments from {gradebook.get_filename()} to {student_obj.full_name_simple()} ---")
         
-        # FIX 1: The correct attribute name is assignment_entries
         if not gradebook.assignment_entries: 
             print("GradeBook is empty. No assignments transferred.")
             return
 
-        # FIX 2: The correct attribute name is assignment_entries
         for assignment in gradebook.assignment_entries:
-            # We assume the GradeBook structure now includes 'weight'
             try:
+                # FIX: We now retrieve and pass the assignment type, defaulting to 'General' if missing
+                assignment_type = assignment.get('type', 'General') 
+
                 self.enter_assignment_grade(
                     student_obj=student_obj,
                     course_name=course_name,
-                    # FIX 3: GradeBook uses 'title' not 'name' for the assignment name
-                    assignment_name=assignment['title'], 
+                    assignment_name=assignment['title'], # GradeBook uses 'title'
                     score=assignment['score'], 
-                    weight=assignment['weight']
+                    weight=assignment['weight'],
+                    assignment_type=assignment_type # FIX: Pass the assignment type
                 )
             except KeyError as e:
                 # Catching if required keys ('score', 'title', 'weight') are missing

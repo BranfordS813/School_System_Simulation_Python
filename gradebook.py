@@ -13,7 +13,8 @@ class GradeBook:
         self.student_id = student_id
         self.student_name = student_name
         # Internal storage for assignments
-        # Each entry: {'title': str, 'score': float, 'weight': float}
+        # FIX: Explicitly updated the docstring and type hint to include 'type' (the assignment type).
+        # Each entry: {'title': str, 'type': str, 'score': float, 'weight': float}
         self.assignment_entries: List[Dict[str, Union[str, float]]] = []
         # Try to load existing grades if the file exists
         self.load_grades()
@@ -42,6 +43,8 @@ class GradeBook:
             try:
                 with open(filename, 'r') as f:
                     self.assignment_entries = json.load(f)
+            # We assume JSON loading is fine, but the old data might be missing 'type'.
+            # When new data with 'type' is saved, this is implicitly fixed.
                 print(f"[GB] Successfully loaded existing grades from {filename}.")
             except json.JSONDecodeError:
                 print(f"[GB WARNING] JSON file {filename} is corrupt or empty. Starting fresh.")
@@ -57,7 +60,8 @@ class GradeBook:
         then saves the result to the JSON file.
         
         Args:
-            new_assignments: A list of dicts, e.g., [{'title': 'Midterm', 'score': 92.0, 'weight': 0.3}]
+            new_assignments: A list of dicts, e.g., 
+                [{'title': 'Midterm', 'type': 'Exam', 'score': 92.0, 'weight': 0.3}]
         """
         # Ensure we have the latest data from the file before updating
         self.load_grades() 
@@ -67,23 +71,24 @@ class GradeBook:
             for i, existing_a in enumerate(self.assignment_entries):
                 # Check if an assignment with the same title already exists (case-insensitive)
                 if existing_a['title'].lower() == new_a['title'].lower():
-                    # Update existing entry with new score and weight
-                    # Validate that score and weight keys exist before update
-                    if 'score' in new_a and 'weight' in new_a:
-                         self.assignment_entries[i]['score'] = new_a['score']
-                         self.assignment_entries[i]['weight'] = new_a['weight']
-                         print(f"Updated: {new_a['title']} (Score: {new_a['score']}, Weight: {new_a['weight']})")
-                         found = True
-                         break
+                    # Update existing entry with new score, type, and weight
+                    if all(key in new_a for key in ['score', 'weight', 'type']):
+                        self.assignment_entries[i]['score'] = new_a['score']
+                        self.assignment_entries[i]['weight'] = new_a['weight']
+                        self.assignment_entries[i]['type'] = new_a['type'] # Included 'type' update
+                        print(f"Updated: {new_a['title']} (Type: {new_a['type']}, Score: {new_a['score']}, Weight: {new_a['weight']})")
+                        found = True
+                        break
             
             if not found:
                 # If the title is new, append it
                 # Ensure all required keys are present before appending
-                if 'title' in new_a and 'score' in new_a and 'weight' in new_a:
+                if all(key in new_a for key in ['title', 'score', 'weight', 'type']):
                     self.assignment_entries.append(new_a)
-                    print(f"Added New Assignment: {new_a['title']} (Score: {new_a['score']}, Weight: {new_a['weight']})")
+                    print(f"Added New Assignment: {new_a['title']} (Type: {new_a['type']}, Score: {new_a['score']}, Weight: {new_a['weight']})")
                 else:
-                    print(f"[GB WARNING] Skipping assignment due to missing fields: {new_a}")
+                    # FIX: Warn about missing 'type' if it's not present, alongside score/weight.
+                    print(f"[GB WARNING] Skipping assignment due to missing fields (must have title, type, score, weight): {new_a}")
         
         # Save the combined and updated list back to the file
         self.save_grades()
@@ -159,36 +164,40 @@ class GradeBook:
         """
         Prints a formatted report of all assignments and the calculated grade.
         """
-        print("\n" + "="*70)
+        print("\n" + "="*80)
         print(f"GRADE REPORT: {self.course_name} for {self.student_name} (ID: {self.student_id})")
-        print("="*70)
+        print("="*80)
 
         if not self.assignment_entries:
             print("No assignments recorded yet.")
-            print("="*70)
+            print("="*80)
             return
 
-        print(f"{'TITLE':<30}{'SCORE':<10}{'WEIGHT':<10}{'CONTRIBUTION':<20}")
-        print("-" * 70)
+        # FIX: Added 'TYPE' column to the display
+        print(f"{'TITLE':<30}{'TYPE':<10}{'SCORE':<10}{'WEIGHT':<10}{'CONTRIBUTION':<20}")
+        print("-" * 80)
         
         for entry in self.assignment_entries:
             title = str(entry.get('title', 'N/A'))
+            # FIX: Safely retrieve 'type' and default if not present (for old data)
+            type_val = str(entry.get('type', 'N/A')) 
             score = float(entry.get('score', 0.0))
             weight = float(entry.get('weight', 0.0))
             
             # Contribution is (Score / 100) * Weight, expressed as a raw grade component
             contribution = (score / 100.0) * weight
             
-            print(f"{title:<30}{score:>7.2f}% {weight:>7.2f} {contribution*100:>15.2f} points")
+            # FIX: Included 'type' in the print formatting
+            print(f"{title:<30}{type_val:<10}{score:>7.2f}% {weight:>7.2f} {contribution*100:>15.2f} points")
             
-        print("-" * 70)
+        print("-" * 80)
         
         current_final_grade, total_weight, score_percent_completed = self.calculate_weighted_score()
 
         print(f"Total Weight Applied: {total_weight:.2f} ({(total_weight * 100):.0f}%)")
         print(f"Grade Based on Completed Work: {score_percent_completed:.2f}%")
         print(f"Current Course Grade (out of 100% total): {current_final_grade:.2f}%")
-        print("="*70)
+        print("="*80)
 
     # --- Original Interactive Method (Minor Update to use display_grades) ---
     def start_interactive_entry(self):
@@ -207,6 +216,8 @@ class GradeBook:
                 self.assignment_entries = []
                 print("Existing entries cleared from memory.")
             else:
+                # If they say no, load the grades again to ensure we have the disk version
+                self.load_grades()
                 print("Continuing with existing entries. New entries will be appended or will require manual update via add_grades_to_json().")
 
         newly_entered_assignments = []
@@ -214,6 +225,10 @@ class GradeBook:
             title = input("Enter Assignment Title (or 'done' to finish): ")
             if title.lower() == 'done':
                 break
+            
+            # NOTE: The Assignment Type prompt is missing here, but it is likely handled in teacher.py.
+            # FIX: Adding the missing prompt for interactive input here just in case this method is used directly.
+            assignment_type = input(f"Enter Assignment Type for {title} (e.g., Homework, Quiz, Exam, Project): ")
 
             try:
                 score = float(input(f"Enter score for {title} (e.g., 90.5): "))
@@ -226,16 +241,17 @@ class GradeBook:
 
                 newly_entered_assignments.append({
                     'title': title,
+                    'type': assignment_type, # FIX: Added assignment type to the dictionary
                     'score': score,
                     'weight': weight
                 })
-                print(f"Queued: {title} (Score: {score}, Weight: {weight})")
+                print(f"Queued: {title} (Type: {assignment_type}, Score: {score}, Weight: {weight})")
             except ValueError:
                 print("Invalid input for score or weight. Please try again.")
 
         # Use the existing add_grades_to_json to handle updates/appends and save
         if newly_entered_assignments:
-             self.add_grades_to_json(newly_entered_assignments)
+            self.add_grades_to_json(newly_entered_assignments)
 
         print("--- Interactive Entry Finished ---")
         self.display_grades()
@@ -252,41 +268,3 @@ class GradeBook:
             print(f"[GB WARNING] GradeBook file not found: {filename}")
         except Exception as e:
             print(f"[GB ERROR] An error occurred during file deletion: {e}")
-
-# if __name__ == '__main__':
-#     # --- Example Usage ---
-    
-#     # 1. Initialize GradeBook for a student
-#     gb = GradeBook("Data Structures 101", "A9001", "Leia Organa")
-    
-#     # 2. Add some grades programmatically
-#     new_grades = [
-#         {'title': 'Homework 1', 'score': 95.0, 'weight': 0.10},
-#         {'title': 'Midterm Exam', 'score': 82.5, 'weight': 0.30},
-#     ]
-#     gb.add_grades_to_json(new_grades)
-
-#     # 3. Display the current report
-#     gb.display_grades()
-    
-#     # 4. Update an existing grade (Homework 1 - maybe it was regraded)
-#     print("\n--- UPDATING A GRADE (Homework 1) ---")
-#     gb.add_grades_to_json([{'title': 'Homework 1', 'score': 98.0, 'weight': 0.10}])
-#     gb.display_grades()
-    
-#     # 5. Add a new assignment
-#     print("\n--- ADDING NEW ASSIGNMENT (Final Project) ---")
-#     gb.add_grades_to_json([{'title': 'Final Project', 'score': 90.0, 'weight': 0.50}])
-#     gb.display_grades()
-
-#     # 6. Calculate the final score only (useful for automation)
-#     score, weight_used, score_completed = gb.calculate_weighted_score()
-#     print(f"\n[PROGRAMMATIC CALC] Weighted Sum: {score:.2f}% | Total Weight Used: {weight_used:.2f}")
-
-#     # 7. Remove an assignment
-#     print("\n--- REMOVING ASSIGNMENT (Midterm Exam) ---")
-#     gb.remove_assignment("Midterm Exam")
-#     gb.display_grades()
-    
-#     # 8. Clean up (Optional: delete the created JSON file)
-#     # gb.delete_json_file()

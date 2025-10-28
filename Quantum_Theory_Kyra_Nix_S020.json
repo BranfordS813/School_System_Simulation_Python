@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Reading Assignment 1",
+        "score": 85.2,
+        "weight": 0.02
+    },
+    {
+        "title": "Reading Assignment 2",
+        "score": 94.2,
+        "weight": 0.02
+    },
+    {
+        "title": "Quiz 1 (10%)",
+        "score": 78.8,
+        "weight": 0.1
+    },
+    {
+        "title": "Quiz 2 (10%)",
+        "score": 84.3,
+        "weight": 0.1
+    },
+    {
+        "title": "Quiz 3 (5%)",
+        "score": 79.2,
+        "weight": 0.05
+    },
+    {
+        "title": "Quiz 4 (5%)",
+        "score": 91.4,
+        "weight": 0.05
+    },
+    {
+        "title": "Quiz 5 (5%)",
+        "score": 86.0,
+        "weight": 0.05
+    },
+    {
+        "title": "Quiz 6 (5%)",
+        "score": 62.5,
+        "weight": 0.05
+    },
+    {
+        "title": "Lab Report 1",
+        "score": 82.5,
+        "weight": 0.03
+    },
+    {
+        "title": "Lab Report 2",
+        "score": 89.0,
+        "weight": 0.03
+    },
+    {
+        "title": "Midterm Exam 1 (High Avg)",
+        "score": 93.0,
+        "weight": 0.1
+    },
+    {
+        "title": "Midterm Exam 2 (Low Avg)",
+        "score": 41.0,
+        "weight": 0.1
+    },
+    {
+        "title": "Midterm Exam 3 (Medium Avg)",
+        "score": 95.0,
+        "weight": 0.1
+    },
+    {
+        "title": "Homework Set 1",
+        "score": 91.9,
+        "weight": 0.01
+    },
+    {
+        "title": "Homework Set 2",
+        "score": 90.5,
+        "weight": 0.01
+    },
+    {
+        "title": "Homework Set 3",
+        "score": 82.8,
+        "weight": 0.01
+    },
+    {
+        "title": "Homework Set 4",
+        "score": 93.9,
+        "weight": 0.01
+    },
+    {
+        "title": "Homework Set 5",
+        "score": 87.1,
+        "weight": 0.01
+    },
+    {
+        "title": "Group Project",
+        "score": 86.6,
+        "weight": 0.08
+    },
+    {
+        "title": "Final Presentation",
+        "score": 70.9,
+        "weight": 0.05
+    }
+]
